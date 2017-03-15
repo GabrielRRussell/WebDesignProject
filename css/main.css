@@ -1,0 +1,47 @@
+* {
+	background-color: gray;
+}
+
+p {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 0.9em;
+}
+
+.content {
+	max-width: 65%;
+	text-align: left;
+	font-family: Monospace;
+}
+
+.header {
+	width: 100%;
+	background: #4d525b;
+	font-family: "Trebuche MS";
+	text-align: center;
+}
+
+.navigation {
+	text-align: center;
+	background-color: gray;
+	min-width: 100%;
+}
+
+ui {
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	background-color: gray;
+}
+
+.footer {
+	text-align: center;
+	font-size: 1em;
+	background-color: #1f251e;
+	margin: auto;
+	
+}
+
+table, th, td {
+    border: 1px solid black;
+}
