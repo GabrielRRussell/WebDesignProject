@@ -1,4 +1,4 @@
-* {
+body {
 	background-color: gray;
 }
 
@@ -37,11 +37,16 @@ ui {
 .footer {
 	text-align: center;
 	font-size: 1em;
-	background-color: #1f251e;
+	background-color: grey;
 	margin: auto;
 	
 }
 
 table, th, td {
     border: 1px solid black;
+	max-width: 50%;
+}
+
+#orcane {
+	
 }
